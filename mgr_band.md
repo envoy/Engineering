@@ -16,6 +16,7 @@ These are duplicated for senior engineers & members of staff, though they may ha
 * Rapid learner that quickly ramps on new languages, frameworks, and systems.
 * Strong understanding of Envoy's data, application, and systems architectures.
 * Systems thinker. Thinks end to end about how designs & changes affect the overall service, architecture, codebase, and users, and how it will evolve in the future.
+
 These are specific to managers.
 * Understands and drives techniques for improving productivity.
 * Understands and drives techniques for leading projects.
