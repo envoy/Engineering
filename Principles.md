@@ -3,16 +3,11 @@
 ### We maintain high standards
 * We know perfect is the enemy of good, but we aspire for great.
 * We keep things small and simple.  One layer of the onion at a time.  Commits, PRs, tickets, communication.
-* Moving fast and decisively helps us deliver value, learn and improve, and achieve quality faster.  
+* Moving fast and decisively helps us deliver value, learn and improve, and achieve quality faster.
 * We embrace that change is constant.  The industry, technology, our customers, our business, and our team will change and as such, our code will and should change.
 * We build durable habits and practices.
 
 ### We take pride in doing things right
-* We feel personally accountable and responsible for the health of our product, code, and systems.
-* We make doing the right thing to do easy to do, and invest the time to do it.  E.g., taco, great tests, guilds.
-* We leave code better than when we found it
-* We care about standards and tech debt, and push back when we need to
-* We automate repeatable tasks
 * We feel personally accountable and responsible for the health of our product, code, and systems.
 * We make doing the right thing to do easy to do, and invest the time to do it.  E.g., taco, great tests, guilds.
 * We leave code better than when we found it
@@ -34,12 +29,12 @@
 * We’re happy when helping others succeed. We prioritize pushing, helping, and teaching each other.
 * We make sure everyone has a voice.  We crave diversity of experiences, backgrounds, opinions, ideas, and locations and feel uneasy without it.
 * We keep things rational, objective, and shared.
-* We work together toward shared goals 
+* We work together toward shared goals
 * We start with trust in each other and build from there.  We assume good intent and skill 1st.
 * We’re humble.  None of us is as smart as all of us.
 
 ### We’re High I/O
-* We overcommunicate.  Our PRs, tickets, docs, code, emails, etc. all have enough context to help the reader. 
+* We overcommunicate.  Our PRs, tickets, docs, code, emails, etc. all have enough context to help the reader.
 * We ask and listen 1st
 * We track and share our work early and often, in service of others
 
