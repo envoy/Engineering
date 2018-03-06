@@ -1,5 +1,5 @@
 # Engineering Principles
-This docunment describes the kind of engineering team we are, and in some cases aspire to be.
+This document describes the kind of engineering team we are, and in some cases aspire to be.
 
 It’s important to write it down so we can achieve & perpetuate it.  We do this by using it as the basis for:
 * Hiring.  Job descriptions & bands, crafting of our interview process.
