@@ -1,4 +1,18 @@
-## Engineering Principles
+# Engineering Principles
+This document describes the kind of engineering team we are, and in some cases aspire to be.
+
+It’s important to write it down so we can achieve & perpetuate it.  We do this by using it as the basis for:
+* Hiring.  Job descriptions & bands, crafting of our interview process.
+* Individual growth & feedback.  Job bands & discussions about opportunities.
+* Team growth & improvement.  Goals, KPIs, and associated projects, ceremonies, and time allocation.
+
+Tactically, it can & maybe should cover:
+* Best attributes & behaviors.  E.g., we geek about new technologies and generally, learning things
+* Habits & general best practices  E.g., we own it in production and ensure we have ways to see if it’s working
+* Goals & high level time allocation  E.g., we make time for quality and use that time to do proactive things like clean up code, write tests
+* Desired results  E.g., we’re seen as one of the top engineering teams by folks outside Envoy
+
+## Here they are:
 
 ### We maintain high standards
 * We know perfect is the enemy of good, but we aspire for great.
