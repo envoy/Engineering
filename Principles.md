@@ -4,7 +4,7 @@ This document describes the kind of engineering team we are, and in some cases a
 It’s important to write it down so we can achieve & perpetuate it.  We do this by using it as the basis for:
 * Hiring.  Job descriptions & bands, crafting of our interview process.
 * Individual growth & feedback.  Job bands & discussions about opportunities.
-* Goals, KPIs, projects, ceremonies, and time allocation.
+* Team growth & improvement.  Goals, KPIs, and associated projects, ceremonies, and time allocation.
 
 Tactically, it can & maybe should cover:
 * Best attributes & behaviors.  E.g., we geek about new technologies and generally, learning things
