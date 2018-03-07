@@ -10,7 +10,7 @@ Tactically, it can & maybe should cover:
 * Best attributes & behaviors.  E.g., we geek about new technologies and generally, learning things
 * Habits & general best practices  E.g., we own it in production and ensure we have ways to see if it’s working
 * Goals & high level time allocation  E.g., we make time for quality and use that time to do proactive things like clean up code, write tests
-* Desired results  E.g., we’re seen as one of the top engineering teams by folks inside and outside Envoy
+* Desired results  E.g., we’re seen as one of the top engineering teams by folks outside Envoy
 
 ## Here they are:
 
