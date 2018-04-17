@@ -1,5 +1,6 @@
 # Engineering Job Bands
 
+<a id="band-overview"></a>
 ## Band Overview
 
 Our job bands are listed below in order of experience level. Pay scale is indicated by numerical bands in parentheses.
@@ -7,31 +8,33 @@ Our job bands are listed below in order of experience level. Pay scale is indica
 NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands cascade up into the higher bands.
 
 ### Engineers
- * Engineer I (Band 1)
- * Engineer II (Band 2)
- * Engineer III [Senior Engineer] (Band 3)
- * Staff Engineer (Band 4)
- * Principal Engineer (Band 5)
- * Unlimited (Band 6)
+ * [Engineer I (Band 1)](#engineer-1)
+ * [Engineer II (Band 2)](#engineer-2)
+ * [Engineer III {Senior Engineer} (Band 3)](#engineer-3)
+ * [Staff Engineer (Band 4)](#staff-engineer)
+ * [Principal Engineer (Band 5)](#principal-engineer)
+ * [Unlimited (Band 6)](#unlimited)
 
 ### Engineering Management
- * Engineering Manager (Band 4)
- * Engineering Director (Band 5)
- * Unlimited (Band 6)
+ * [Engineering Manager (Band 4)](#engineering-manager)
+ * [Director of Engineering (Band 6)](#director-of-engineering)
 
+<a id="role-overview"></a>
 ## Role Overview
 
 Roles are mixed in to the engineering bands, providing more specialized scopes, skills, mindsets, and behaviors.
 
 NOTE: Scope should change, but experience and mindset should not.
 
- * Technical Lead
- * Data Engineer
- * Operations Security Engineer (“OpSec”)
- * Systems Engineer (“SysEng”)
+ * [Technical Lead](#mixin-technical-lead)
+ * [Data Engineer](#mixin-data-engineer)
+ * [Operations Security Engineer (“OpSec”)](#mixin-operations-security-engineer)
+ * [Systems Engineer (“SysEng”)](#mixin-systems-engineer)
 
+<a id="bands"></a>
 ## Bands
 
+<a id="engineer-1"></a>
 ### Engineer I (Band 1)
 
 #### Scope
@@ -64,6 +67,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="engineer-2"></a>
 ### Engineer II (Band 2)
 
 #### Scope
@@ -94,6 +98,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="engineer-3"></a>
 ### Engineer III (Band 3)
 
 #### Scope
@@ -127,6 +132,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="staff-engineer"></a>
 ### Staff Engineer (Band 4)
 
 #### Scope
@@ -156,6 +162,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="principal-engineer"></a>
 ### Principal Engineer (Band 5)
 
 #### Scope
@@ -176,6 +183,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="engineering-manager"></a>
 ### Engineering Manager (Band 4)
 
 #### Scope
@@ -208,6 +216,7 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="director-of-engineering"></a>
 ### Director of Engineering (Band 6)
 
 #### Scope
@@ -231,14 +240,18 @@ NOTE: Scope should change, but experience and mindset should not.
 
 ----
 
+<a id="unlimited"></a>
 ### Unlimited (Band 6)
+
 We aim to not have a "capped" organization. At this level of experience and seniority, you can pretty much call yourself whatever you want. You have an exponential impact on the organization and/or industry.
 
 ----
 
 ## Roles
 
+<a id="mixin-technical-lead"></a>
 ### Technical Lead
+
 *(Forthcoming)*
 
 #### Scope
@@ -247,7 +260,7 @@ We aim to not have a "capped" organization. At this level of experience and seni
 
 #### Behaviors & Mindset
 
-
+<a id="mixin-data-engineer"></a>
 ### Data Engineer
 
 #### Scope
@@ -262,12 +275,14 @@ We aim to not have a "capped" organization. At this level of experience and seni
 * You have a strong proficiency with constructing efficient SQL (no select *'s!) and ideally can program in R and/or Python (w/ Numpy, Scipy).
 * You have experience with algorithms, tools, and techniques for data mining, linear regression, machine learning.
 * You have a knowledge of and experience with where the data comes from and how it makes it through the pipeline into a query result or interface.  You’ve worked 1st hand (or in close partnership with an engineer) with various data storage technologies, pipelines, ETL, and visualization systems at scale.  We use PostgreSQL, Redshift, Looker, DBT, Stitch, Split.io.
-* 
+
 #### Behaviors & Mindset
 * You are adamant that data don’t lie. You are passionate about finding the insights and “truth” that data can give: it’s a key reason why you get up every day.
 * You are a big picture, systems thinker. You think about how the whole is a sum of many parts and how we can properly measure them end to end such that we have the per context for insights.
 
+<a id="mixin-operations-security-engineer"></a>
 ### Operations Security Engineer (“OpSec”)
+
 *(Forthcoming)*
 
 #### Scope
@@ -276,6 +291,7 @@ We aim to not have a "capped" organization. At this level of experience and seni
 
 #### Behaviors & Mindset
 
+<a id="mixin-systems-engineer"></a>
 ### Systems Engineer (“SysEng”)
 
 #### Scope
@@ -293,12 +309,14 @@ We aim to not have a "capped" organization. At this level of experience and seni
 #### Behaviors & Mindset
 * You are an advocate for the triumvirate of efficiency, stability, and reliability.
 
+<a id="references"></a>
 ## References
 
 1. [TuneIn Engineering Job Bands](https://github.com/tunein/engineering/blob/master/software_bands.md)
 2. [Envoy Engineer or Technical Manager Band](https://github.com/envoy/Engineering/blob/master/mgr_band.md)
 3. [Engineering Project Leadership](https://envoycom.atlassian.net/wiki/spaces/ENVOY/pages/8360464/Engineering+Project+Leadership)
 
+<a id="license"></a>
 ## License
 
 ![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
