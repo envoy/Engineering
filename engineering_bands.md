@@ -3,7 +3,7 @@
 <a id="band-overview"></a>
 ## Band Overview
 
-Our job bands are listed below in order of experience level. Pay scale is indicated by numerical bands in parentheses.
+Our job bands are listed below in order of experience level. Band levels (which mays to pay scale) is indicated by numerical values in parentheses.
 
 NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands cascade up into the higher bands.
 
@@ -17,7 +17,7 @@ NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands ca
 
 ### Engineering Management
  * [Engineering Manager (Band 4)](#engineering-manager)
- * [Director of Engineering (Band 6)](#director-of-engineering)
+ * [Director of Engineering (Band 5)](#director-of-engineering)
 
 <a id="role-overview"></a>
 ## Role Overview
