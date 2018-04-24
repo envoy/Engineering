@@ -217,7 +217,7 @@ NOTE: Scope should change, but experience and mindset should not.
 ----
 
 <a id="director-of-engineering"></a>
-### Director of Engineering (Band 6)
+### Director of Engineering (Band 5)
 
 #### Scope
 * You masterfully handle the scope of the Engineering Manager band and do so where and when needed, for example in the interim while we are hiring or growing a manager.
