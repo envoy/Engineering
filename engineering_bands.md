@@ -309,13 +309,6 @@ We aim to not have a "capped" organization. At this level of experience and seni
 #### Behaviors & Mindset
 * You are an advocate for the triumvirate of efficiency, stability, and reliability.
 
-<a id="references"></a>
-## References
-
-1. [TuneIn Engineering Job Bands](https://github.com/tunein/engineering/blob/master/software_bands.md)
-2. [Envoy Engineer or Technical Manager Band](https://github.com/envoy/Engineering/blob/master/mgr_band.md)
-3. [Engineering Project Leadership](https://envoycom.atlassian.net/wiki/spaces/ENVOY/pages/8360464/Engineering+Project+Leadership)
-
 <a id="license"></a>
 ## License
 
