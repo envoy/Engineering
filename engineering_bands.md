@@ -205,7 +205,7 @@ NOTE: Scope should change, but experience and mindset should not.
 * You are experienced with a variety of growth and leadership strategies, tactics, and scenarios.
 
 #### Behaviors & Mindset
-* You act with and teaches appropriate urgency when the situation calls for it. You feel personally accountable and responsible. You look for problems and inefficiencies and find elegant solutions before they become major issues.
+* You act with and teach appropriate urgency when the situation calls for it. You feel personally accountable and responsible. You look for problems and inefficiencies and find elegant solutions before they become major issues.
 * You are high I/O, emotionally mature, and humble. You are a good, deep listener. Likewise, you share info proactively and effectively. You care about being effective over being right. You accept feedback willingly,  seeking opposing points of view.
 * You are an open-minded learner. You live to learn new things, like staying up to date on new technologies, tools, and techniques. You are inspired by what's possible as well as what people inside and outside Envoy know, and eager to incorporate the best. You experiment, challenge status quo, and take appropriate risks.
 * You are empathetic, happy when helping others succeed. You drive and facilitate clarity when there's ambiguity in what's needed.
