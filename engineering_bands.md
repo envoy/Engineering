@@ -227,7 +227,7 @@ NOTE: Scope should change, but experience and mindset should not.
 * You ensure your teams are continuing to get better, through goals and KPIs, retrospectives, and priorities to improve.  You help set aggressive, aspirational, and inspirational goals that helps the teams unlock their best work.
 * You drive staffing and budget planning for your areas of ownership.  You ensure your teams are aligned to best accomplish the goals defined by and set forth for your team.  You ensure teams have what they need to execute on delivering high quality software.
 * You grow leaders at every level of your org.  You diagnose and improve motivation both individually and at scale within your team(s).  You ensure our standards remain high for both culture and talent.
-* People see you as reliable and credible across the organization. You are a trusted partner.  You are conscientious and do the right thing. You cultivate these same behaviors in your teams.
+* People see you as reliable and credible across the organization and trust you to lead large scale initiatives. You are a  partner that helps make things better.  You are conscientious and do the right thing.  You cultivate these same behaviors in your teams and multiply the effectiveness of others.
 * You actively contribute to and/or lead Engineering-wide and Envoy-wide strategies, changes, improvements.
 
 #### Skills & Experience
