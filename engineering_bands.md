@@ -253,7 +253,8 @@ We aim to not have a "capped" organization. At this level of experience and seni
 ### Technical Lead
 
 #### Scope
-* You will be responsible for creating and maintaining the technical roadmap and delivery plan for a product or project.
+* You will be responsible for creating and maintaining the delivery plan for a product, project, or codebase.
+* You will fully own the technical direction, architecture, and engineering KPIs for the project and associated code.
 * You will manage the deliverables, priorities, and risks of the project.
 * You will coordinate with other teams (typically Product, Design, and Support) as needed to bring the work to conclusion.
 * You will run an inception for the project, bringing together key stakeholders and core team members to define scope; set goals (and antigoals); assess risks; identify personas, roles, and activities; and produce an initial backlog of stories.
@@ -265,9 +266,9 @@ We aim to not have a "capped" organization. At this level of experience and seni
 * You have led design conversations and proposed design specifications for components, interfaces, and services.
 * You have successfully managed your own workload, particularly work involving coordination with other team members.
 * You are able to communicate clearly and concisely both to technical and non-technical audiences about scope of, methodologies employed in, and state of a project.
+* You are able to discern when it is appropriate to spike or create an MVP in order to ensure quick learnings and can rally a team around the appropriate tradeoffs needed to do so.
 
 #### Behaviors & Mindset
-* You are able to discern when it is appropriate to spike or create an MVP in order to ensure quick learnings and can rally a team around the appropriate tradeoffs needed to do so.
 * You are actively pushing back on over-engineered solutions. Conversely, you are advocating for improving under-implemented solutions.
 
 <a id="mixin-data-engineer"></a>
