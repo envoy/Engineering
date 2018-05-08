@@ -252,13 +252,24 @@ We aim to not have a "capped" organization. At this level of experience and seni
 <a id="mixin-technical-lead"></a>
 ### Technical Lead
 
-*(Forthcoming)*
-
 #### Scope
+* You will be responsible for creating and maintaining the delivery plan for a product, project, or codebase.
+* You will fully own the technical direction, architecture, and engineering KPIs for the project and associated code.
+* You will manage the deliverables, priorities, and risks of the project.
+* You will coordinate with other teams (typically Product, Design, and Support) as needed to bring the work to conclusion.
+* You will run an inception for the project, bringing together key stakeholders and core team members to define scope; set goals (and antigoals); assess risks; identify personas, roles, and activities; and produce an initial backlog of stories.
+* You will lead agile ceremonies for the core team, including: storytime, sprint planning, standups, weekly discussion and retrospectives.
+* You will drive the project's stories through estimation, selection for development, review, testing, deployment, and acceptance.
 
 #### Skills & Experience
+* You have successfully managed small-scale projects. You can organize and lead processes, ceremonies, and tools to do so (e.g. sprint planning sessions, standups, task tracking boards, risk plans.)
+* You have led design conversations and proposed design specifications for components, interfaces, and services.
+* You have successfully managed your own workload, particularly work involving coordination with other team members.
+* You are able to communicate clearly and concisely both to technical and non-technical audiences about scope of, methodologies employed in, and state of a project.
+* You are able to discern when it is appropriate to spike or create an MVP in order to ensure quick learnings and can rally a team around the appropriate tradeoffs needed to do so.
 
 #### Behaviors & Mindset
+* You are actively pushing back on over-engineered solutions. Conversely, you are advocating for improving under-implemented solutions.
 
 <a id="mixin-data-engineer"></a>
 ### Data Engineer
