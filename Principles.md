@@ -44,7 +44,7 @@ Tactically, it can & maybe should cover:
 ### We act like owners and keep context
 * We love engineering and technology, but we solve for our customers and the bigger teams 1st.
 * If we can’t unanimously articulate why we’re doing something, we don’t do it.
-* If we have a nagging suspician we're headed in the wrong direction, we hit the Stop button and rethink.
+* If we have a nagging suspician we're headed in the wrong direction, we hit the Stop button, raise the issue, and rethink.
 * We solve problems we actually have before ones we might.
 * We use data to tell us the story.  If we don’t have data, we prioritize getting it.
 * We make decisions as a group after informed discussion. Decisions are not dictated from the top, or from the person making the loudest noises, rather they’re based on merit, options, and criteria.
