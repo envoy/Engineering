@@ -16,8 +16,8 @@ NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands ca
  * [Unlimited (Band 6)](#unlimited)
 
 ### Management
- * [Data IV / Analytics Manager (Band 4)](#manager)
- * [Data IV / Director of Analytics (Band 5)](#director)
+ * [Analytics Manager (Band 4)](#manager)
+ * [Director of Analytics (Band 5)](#director)
 
 <a id="bands"></a>
 ## Bands
@@ -173,7 +173,7 @@ NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands ca
 ----
 
 <a id="manager"></a>
-### Data IV / Analytics Manager (Band 4)
+### Analytics Manager (Band 4)
 
 #### Scope
 * You drive great execution. You work with the team to enable execution including implementing appropriate processes, setting appropriate expectations, managing risks, managing resource allocation (aka managing the balance of scope/schedule/resources), and removing blockers.
@@ -206,7 +206,7 @@ NOTE: Scopes, skills, experiences, behaviors, and mindsets of the lower bands ca
 ----
 
 <a id="director"></a>
-### Director of Analytics (Band 6)
+### Director of Analytics (Band 5)
 
 #### Scope
 * You masterfully handle the scope of the Analytics Manager band and do so where and when needed, for example in the interim while we are hiring or growing a manager.
