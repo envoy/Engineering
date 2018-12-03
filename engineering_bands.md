@@ -237,6 +237,7 @@ NOTE: Scope should change, but experience and mindset should not.
 #### Behaviors & Mindset
 * You embody and model the Manager Behaviors and Mindsets.
 * You view yourself as a teacher and servant leader to your team.
+* You embrace the “First Team” concept and make decisions considering the bigger team 1st.
 
 ----
 
