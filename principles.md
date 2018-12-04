@@ -49,6 +49,7 @@ Tactically, it can & maybe should cover:
 * We make decisions as a group after informed discussion. Decisions are not dictated from the top, or from the person making the loudest noises, rather they’re based on merit, options, and criteria.
 * We look for problems and inefficiencies and find elegant solutions before they become major issues.
 * We act with appropriate urgency when the situation calls for it.
+* We ship relentlessly and fearlessly yet with pragmatism.
 
 <a name="4"></a>
 ### We lift each other up
